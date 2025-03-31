@@ -1,4 +1,4 @@
-## 🎬 Movie Recommendation System 🎥
+# 🎬 Movie Recommendation System 🎥
 
 ## 🌟 Overview
 The **Movie Recommendation System** is an AI-powered project that suggests movies based on your preferences, viewing history, and ratings. Using cutting-edge machine learning algorithms, this system ensures a **personalized and engaging experience** for every user! 🍿✨
@@ -32,15 +32,18 @@ The **Movie Recommendation System** is an AI-powered project that suggests movie
    ```bash
    pip install -r requirements.txt
    ```
-4️⃣ **Set up the database**:
+4️⃣ **Run in Google Colab**:
+   Open [this Colab Notebook](https://colab.research.google.com/drive/1IncHnVSjDzZwSnk5JzbRNdsYJq5o84_L) and follow the instructions to execute the project in a cloud-based environment. 🚀
+
+5️⃣ **Set up the database** (if running locally):
    ```bash
    python setup.py
    ```
-5️⃣ **Run the application**:
+6️⃣ **Run the application** (if running locally):
    ```bash
    python app.py
    ```
-6️⃣ **Open in your browser**: `http://localhost:5000/` 🌐
+7️⃣ **Open in your browser**: `http://localhost:5000/` 🌐
 
 ## 🎯 How to Use
 1. **Sign up or log in** to get started. 🔑
@@ -57,6 +60,7 @@ The **Movie Recommendation System** is an AI-powered project that suggests movie
 
 ## 🤝 Contributing
 Contributions are **welcome & appreciated**! Feel free to **fork the repo, submit pull requests, or open issues**. Let’s build something amazing together! 🚀
+
 
 ## 📜 License
 This project is licensed under the **MIT License**. This project is the intellectual property of Poorvi Shrivastava. 📄
